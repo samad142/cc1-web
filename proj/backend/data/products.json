@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Laptop HP ProBook",
+    "unitPrice": 899.99,
+    "category": "Electronics"
+  },
+  {
+    "name": "Office Desk Chair",
+    "unitPrice": 149.50,
+    "category": "Furniture"
+  },
+  {
+    "name": "Professional Printer",
+    "unitPrice": 349.99,
+    "category": "Office Equipment"
+  },
+  {
+    "name": "Software License (Annual)",
+    "unitPrice": 199.00,
+    "category": "Software"
+  }
+]
